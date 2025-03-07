@@ -1,4 +1,4 @@
-# Financial Metrics Extraction and Piotroski F-Score Calculation
+# Financial Metrics Extraction and Piotroski F-Score Calculation with MistralOCR
 
 This project automates financial data extraction from PDFs, processes it with OCR (using Mistral OCR), and calculates key financial ratios and the Piotroski F-score.
 
